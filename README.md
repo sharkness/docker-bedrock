@@ -1,5 +1,7 @@
 
 # Docker Compose and WordPress
+Forked from [this project](https://github.com/urre/wordpress-nginx-docker-compose)
+
 
 [![Build Status](https://travis-ci.org/urre/wordpress-nginx-docker-compose.svg?branch=master)](https://travis-ci.org/urre/wordpress-nginx-docker-compose)
 
